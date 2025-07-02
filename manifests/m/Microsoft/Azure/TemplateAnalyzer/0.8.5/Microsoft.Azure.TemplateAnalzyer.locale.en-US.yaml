@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.10.0.schema.json
+
+PackageIdentifier: Microsoft.Azure.TemplateAnalyzer
+PackageVersion: 0.8.5
+PackageLocale: en-US
+Publisher: Microsoft Azure
+PublisherUrl: https://github.com/Azure
+PublisherSupportUrl: https://github.com/Azure/template-analyzer/issues
+PackageName: Azure Template Analyzer
+PackageUrl: https://github.com/Azure/template-analyzer
+License: MIT License
+LicenseUrl: https://github.com/Azure/template-analyzer/blob/main/LICENSE.txt
+ShortDescription: Azure Template Analyzer is a tool to analyze Azure Resource Manager JSON & Bicep templates for best practices and potential issues.
+Moniker: template-analyzer
+Tags:
+- Azure
+ReleaseNotesUrl: https://github.com/Azure/template-analyzer/releases/tag/v0.8.5
+ManifestType: defaultLocale
+ManifestVersion: 1.10.0
